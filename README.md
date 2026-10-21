@@ -117,9 +117,8 @@ Gosto de entender o produto, encontrar falhas antes do usuário e documentar tud
 <br/>
 
 ---
-
----
-
+<div align="center">
+  
 ## `> goals --current`
 
 </div>
@@ -160,7 +159,7 @@ leticia@qa-system:~$ _
 
 ### 📈 Gráfico de Atividade
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LehMoreno8&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=E0AAFF&area_color=7B2CBF&area=true&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es" alt="Activity Graph" />
+<img width="95%" src="https://ghchart.rshah.org/9D4EDD/LehMoreno8" alt="Gráfico de contribuições" />
 
 </div>
 
@@ -172,19 +171,15 @@ leticia@qa-system:~$ _
 
 ## `> trophies --show`
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=LehMoreno8&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://img.shields.io/badge/🏆_TROFÉU-Primeiro_Commit-9D4EDD?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/🏆_TROFÉU-Foco_em_QA-7B2CBF?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/🏆_TROFÉU-Caçadora_de_Bugs-C77DFF?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/🏆_TROFÉU-Testes_Android-5A189A?style=for-the-badge&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/🏆_TROFÉU-Aprendizado_Contínuo-9D4EDD?style=for-the-badge&labelColor=0D0221" />
+
+<sub>🔓 Novos troféus serão desbloqueados conforme eu evoluo.</sub>
 
 <br/><br/>
-
-## `> snake --eat-contributions`
-
-<img width="95%" src="https://raw.githubusercontent.com/LehMoreno8/LehMoreno8/output/github-snake-dark.svg" alt="Snake Contribution Animation" />
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
